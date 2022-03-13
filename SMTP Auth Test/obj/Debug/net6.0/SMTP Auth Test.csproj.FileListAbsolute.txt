@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\SMTP Auth Test\SMTP Auth Test\bin\Debug\net6.0\SMTP Auth Test.exe
+C:\Users\User\source\repos\SMTP Auth Test\SMTP Auth Test\bin\Debug\net6.0\SMTP Auth Test.deps.json
+C:\Users\User\source\repos\SMTP Auth Test\SMTP Auth Test\bin\Debug\net6.0\SMTP Auth Test.runtimeconfig.json
+C:\Users\User\source\repos\SMTP Auth Test\SMTP Auth Test\bin\Debug\net6.0\SMTP Auth Test.dll
+C:\Users\User\source\repos\SMTP Auth Test\SMTP Auth Test\bin\Debug\net6.0\SMTP Auth Test.pdb
+C:\Users\User\source\repos\SMTP Auth Test\SMTP Auth Test\obj\Debug\net6.0\SMTP Auth Test.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SMTP Auth Test\SMTP Auth Test\obj\Debug\net6.0\SMTP Auth Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SMTP Auth Test\SMTP Auth Test\obj\Debug\net6.0\SMTP Auth Test.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SMTP Auth Test\SMTP Auth Test\obj\Debug\net6.0\SMTP Auth Test.AssemblyInfo.cs
+C:\Users\User\source\repos\SMTP Auth Test\SMTP Auth Test\obj\Debug\net6.0\SMTP Auth Test.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SMTP Auth Test\SMTP Auth Test\obj\Debug\net6.0\SMTP Auth Test.dll
+C:\Users\User\source\repos\SMTP Auth Test\SMTP Auth Test\obj\Debug\net6.0\refint\SMTP Auth Test.dll
+C:\Users\User\source\repos\SMTP Auth Test\SMTP Auth Test\obj\Debug\net6.0\SMTP Auth Test.pdb
+C:\Users\User\source\repos\SMTP Auth Test\SMTP Auth Test\obj\Debug\net6.0\SMTP Auth Test.genruntimeconfig.cache
+C:\Users\User\source\repos\SMTP Auth Test\SMTP Auth Test\obj\Debug\net6.0\ref\SMTP Auth Test.dll
