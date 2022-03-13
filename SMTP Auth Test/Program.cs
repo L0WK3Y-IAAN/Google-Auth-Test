@@ -21,7 +21,7 @@ class Program
         }
 
         //Create auth_pair url
-        string app_name = "PasswordManager";
+        string app_name = "ION";
         string app_info = "IAANSEC";
         string security_code = rand_sec_code;
         string auth_pair = "https://www.authenticatorapi.com/pair.aspx?" + "AppName=" + app_name + "&AppInfo=" + app_info + "&SecretCode=" + security_code;
