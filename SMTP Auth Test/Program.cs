@@ -27,11 +27,11 @@ class Program
         string auth_pair = "https://www.authenticatorapi.com/pair.aspx?" + "AppName=" + app_name + "&AppInfo=" + app_info + "&SecretCode=" + security_code;
 
 
-        //Get request to auth_pair url
+        //Get request to auth_pair url 
         using var client = new HttpClient();
         var html = await client.GetStringAsync(auth_pair);
 
-        //Load auth_pair html 
+        //Load auth_pair html and parse img url
         var htmlDocument = new HtmlDocument();
         htmlDocument.LoadHtml(html);
         string qr_img_url = htmlDocument.DocumentNode
