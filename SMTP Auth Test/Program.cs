@@ -21,8 +21,8 @@ class Program
         }
 
         //Create auth_pair url
-        string app_name = "ION";
-        string app_info = "IAANSEC";
+        string app_name = "INSERT APP NAME";
+        string app_info = "INSERT DEV NAME";
         string security_code = rand_sec_code;
         string auth_pair = "https://www.authenticatorapi.com/pair.aspx?" + "AppName=" + app_name + "&AppInfo=" + app_info + "&SecretCode=" + security_code;
 
